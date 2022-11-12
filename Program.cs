@@ -17,16 +17,34 @@ for(int i = 0; i < array.Length; i ++) {
     array[i] = Console.ReadLine()!;
 }
 
-for(int i = 0; i < array.Length; i ++) {
+/* for(int i = 0; i < array.Length; i ++) {
     Console.Write(array[i]);
     
-}
+} */
 
 lengthArrResolt = getAmountStringlessFourSimdol(array);
 
 string [] newArray =  new string [lengthArrResolt];
 
-Console.Write(lengthArrResolt);
+
+
+getArrLessFoursimbol(array, newArray);
+
+
+void getArrLessFoursimbol(string [] _arr, string [] _newArr) {
+   int count = 0;
+    for(int j = 0; j < _arr.Length; j++) {
+        if(_arr[j].Length < 4) {
+           _newArr[count] = _arr[j];
+           count++;  
+
+        }
+    }
+
+    printArr(_newArr);
+
+
+} 
 
 int getAmountStringlessFourSimdol(string [] _arr) {
     int count = 0;
@@ -40,4 +58,9 @@ int getAmountStringlessFourSimdol(string [] _arr) {
     return count; 
 
 }
-
+void printArr(string [] _arr) {
+for(int i = 0; i < _arr.Length; i ++) {
+    Console.Write($"{_arr[i]} ");
+    
+}
+}
