@@ -1,0 +1,15 @@
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\bin\Debug\net6.0\geekbrainsCheck.exe
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\bin\Debug\net6.0\geekbrainsCheck.deps.json
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\bin\Debug\net6.0\geekbrainsCheck.runtimeconfig.json
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\bin\Debug\net6.0\geekbrainsCheck.dll
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\bin\Debug\net6.0\geekbrainsCheck.pdb
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.csproj.AssemblyReference.cache
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.AssemblyInfoInputs.cache
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.AssemblyInfo.cs
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.csproj.CoreCompileInputs.cache
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.dll
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\refint\geekbrainsCheck.dll
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.pdb
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\geekbrainsCheck.genruntimeconfig.cache
+C:\Users\chimi\Desktop\geekbrainsCheck\geekbrainsCheck\obj\Debug\net6.0\ref\geekbrainsCheck.dll
